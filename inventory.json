@@ -1,0 +1,68 @@
+{
+  "art": [
+    {
+      "id": 1,
+      "image": "assets/pics/art1.png",
+      "title": "Day Break",
+      "description": "Acrylic Painting: Siralie Y",
+      "rating": 5,
+      "price": 4000
+    },
+    {
+      "id": 2,
+      "image": "assets/pics/art-2.0.png",
+      "title": "Day Break",
+      "description": "Acrylic Painting: Abel M",
+      "rating": 5,
+      "price": 4000
+    },
+    {
+      "id": 3,
+      "image": "assets/pics/art-3.0.png",
+      "title": "Day Break",
+      "description": "Acrylic Painting: Siralie Y",
+      "rating": 5,
+      "price": 4000
+    },
+    {
+      "id": 4,
+      "image": "assets/pics/art4.0.png",
+      "title": "Day Break",
+      "description": "Acrylic Painting: Siralie Y",
+      "rating": 5,
+      "price": 4000
+    },
+    {
+      "id": 5,
+      "image": "assets/pics/art5.0.png",
+      "title": "Day Break",
+      "description": "Acrylic Painting: Siralie Y",
+      "rating": 5,
+      "price": 4000
+    },
+    {
+      "id": 6,
+      "image": "assets/pics/art6.0.png",
+      "title": "Day Break",
+      "description": "Acrylic Painting: Siralie Y",
+      "rating": 5,
+      "price": 4000
+    },
+    {
+      "id": 7,
+      "image": "assets/pics/art7.0.png",
+      "title": "Day Break",
+      "description": "Acrylic Painting: Siralie Y",
+      "rating": 5,
+      "price": 4000
+    },
+    {
+      "id": 8,
+      "image": "assets/pics/art8.0.png",
+      "title": "Day Break",
+      "description": "Acrylic Painting: Siralie Y",
+      "rating": 5,
+      "price": 4000
+    }
+  ]
+}

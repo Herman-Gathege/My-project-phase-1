@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": "da47",
+      "username": "herman",
+      "email": "herman.gathege@student.moringaschool.com",
+      "password": "herman"
+    },
+    {
+      "id": "a1c7",
+      "username": "andrew",
+      "email": "andrew@gmail.com",
+      "password": "herman22222"
+    },
+    {
+      "id": "208e",
+      "username": "andrew",
+      "email": "andrew@gmail.com",
+      "password": "herman22222"
+    },
+    {
+      "id": "c470",
+      "username": "herman",
+      "email": "andrew@gmail.com",
+      "password": "herman22222"
+    },
+    {
+      "id": "a220",
+      "username": "herman",
+      "email": "andrew@gmail.com",
+      "password": "herman22222"
+    }
+  ]
+} 
+
+
+
+
